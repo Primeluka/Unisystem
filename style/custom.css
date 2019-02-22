@@ -1,0 +1,89 @@
+.specializations {
+	background-color: #2e2e42;
+}
+
+.specializations > div > h5 {
+    letter-spacing: .25rem;
+}
+
+.aboutme > div > h5 {
+    letter-spacing: .25rem;
+}
+.aboutme {
+    background-color: rgb(246, 246, 248);
+}
+
+.offer {
+    background-color: rgb(246, 246, 248);
+}
+
+.footer {
+    background-color: rgb(246, 246, 248);
+}
+
+.icons {
+    font-size: 160%;
+}
+
+.fa-facebook-square:hover {
+    color: #3b5998;
+    -o-transition:.5s;
+    -ms-transition:.5s;
+    -moz-transition:.5s;
+    -webkit-transition:.5s;
+    transition:.5s;
+}
+
+.fa-facebook-square{
+    -o-transition:.5s;
+    -ms-transition:.5s;
+    -moz-transition:.5s;
+    -webkit-transition:.5s;
+    transition:.5s;
+}
+
+.fa-twitter:hover {
+    color: #00acee;
+    -o-transition:.5s;
+    -ms-transition:.5s;
+    -moz-transition:.5s;
+    -webkit-transition:.5s;
+    transition:.5s;
+}
+
+.fa-twitter{
+    -o-transition:.5s;
+    -ms-transition:.5s;
+    -moz-transition:.5s;
+    -webkit-transition:.5s;
+    transition:.5s;
+}
+
+.fa-google-plus-square:hover {
+    color: #dd4b39;
+    -o-transition:.5s;
+    -ms-transition:.5s;
+    -moz-transition:.5s;
+    -webkit-transition:.5s;
+    transition:.5s;
+}
+
+.fa-google-plus-square{
+    -o-transition:.5s;
+    -ms-transition:.5s;
+    -moz-transition:.5s;
+    -webkit-transition:.5s;
+    transition:.5s;
+}
+
+.nav-item {
+    color: #000000;
+    border-radius: 15px;
+}
+
+.nav-item:hover {
+    color: #ffc400;
+    background-color: #2e2e42;
+    border-radius: 15px;
+    transition: 1s;
+}
